@@ -1,30 +1,35 @@
-# React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Projeto AppNote
+Projeto criado na NLW da Rocketseat
 
-Currently, two official plugins are available:
+### Descrição
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Criação do template utilizando o Nextjs e Json interno para uma loja virtual simples. 
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+### Tecnologias
+- Nextjs
+- Typescript
+- Tailwindcss
 
-- Configure the top-level `parserOptions` property like this:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+## Aprendizados
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Nesta aula, coloquei em pratica o que aprendir e me atualizando nos novos conceitos de mercado e no desenvolvimento em Nextjs, e simulando com Json interno dentro do codigo para listar e estruturar a lista de produtos dentro do site.
+
+
+### Screenshots
+
+![App Screenshot](https://private-user-images.githubusercontent.com/2422675/471730862-dd00ba72-4168-4d9f-bf3d-2ccdc1850ea9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM3NDE1MDMsIm5iZiI6MTc1Mzc0MTIwMywicGF0aCI6Ii8yNDIyNjc1LzQ3MTczMDg2Mi1kZDAwYmE3Mi00MTY4LTRkOWYtYmYzZC0yY2NkYzE4NTBlYTkucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDcyOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA3MjhUMjIyMDAzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YzNkNWZhOTVjNjA5MDljOGI1NTg4YWI0OGNhNzc5OGEwZWNlMTI0YzVhODkyMTViNzAzODVjZWQ0MTYyNGI5YyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ._S6xrWqjLInCr5q7qHhvf3HCKGRd8aKv_B93s_6bMCk)
+
+## Demonstração do site
+
+[https://github.com/marciorso20/devstore)]
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-roberto-89535b22/)
+
+
+
