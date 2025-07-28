@@ -8,15 +8,14 @@ Criação do template utilizando o Nextjs e Json interno para uma loja virtual s
 
 
 ### Tecnologias
-- Nextjs
+- Reactjs
 - Typescript
 - Tailwindcss
 
 
 ## Aprendizados
 
-Nesta aula, coloquei em pratica o que aprendir e me atualizando nos novos conceitos de mercado e no desenvolvimento em Nextjs, e simulando com Json interno dentro do codigo para listar e estruturar a lista de produtos dentro do site.
-
+No evento da Rocketseat, coloquei em pratica o que aprendir e me atualizando nos novos conceitos de mercado e no desenvolvimento em Reactjs.
 
 ### Screenshots
 
@@ -24,7 +23,7 @@ Nesta aula, coloquei em pratica o que aprendir e me atualizando nos novos concei
 
 ## Demonstração do site
 
-[https://github.com/marciorso20/devstore)]
+[https://appnotes-three.vercel.app/)]
 
 
 ## 🔗 Links
